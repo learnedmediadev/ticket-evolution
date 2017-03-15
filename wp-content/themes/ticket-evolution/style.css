@@ -1,18 +1,12 @@
 /*
-Theme Name: Kaled Management
+Theme Name: Ticket Evolution
 Author: [L]earned Media
 Author URI: learnedmedia.com
 Version: 1.0
 Template: twentysixteen
 */
 body {
-  background-color: green !important; }
+  background-color: blue !important; }
 
-body {
-  background-color: red; }
-
-body {
-  background-color: red; }
-
-body {
-  background-color: red; }
+.site-content-contain {
+  background-color: red !important; }

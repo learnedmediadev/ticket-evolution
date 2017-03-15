@@ -5,7 +5,7 @@ var livereload = require('gulp-livereload');
 var notify = require('gulp-notify');
 
 gulp.task('default', function() {
-	console.log("test");
+
 });
 
 //compile sass to css
